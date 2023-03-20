@@ -1,5 +1,50 @@
 [![Header](https://github.com/vjmindlab/vjmindlab/blob/37a48dbee0890a12e9e341fae4d88477f2e14312/github-header-image_new.png "Header")](https://frankdufaux.com/)
 
+<br/>  
+
+<table border="0"><tr><tr valign="top" width="33%">
+
+
+
+## UX/UI TOOLS PROFICIENCY  
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/Figma-logo.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/penpot-logo.svg" alt="Penpot" height="50" />  <img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/protopie_logo.svg" alt="Protopie" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/Adobe_XD_icon.svg" alt="Adobe XD" height="50" />  <img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/Photoshop_icon.svg" alt="Photoshop" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Illustrator_icon.svg" alt="Illustrator" height="50" />  
+</div>
+
+</tr>
+<tr valign="top" width="33%">
+
+## STACK TOOL USED  
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/vite_logo.svg" alt="Vite" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/parcel_logo.svg" alt="Parcel" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/webpack_logo.svg" alt="WebPack" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Amazon_Web_Services_Logo.svg" alt="Amazon Web Services" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Google_Cloud_logo.svg" alt="Google Cloud" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Firebase_Logo.svg" alt="Firebase" height="50" />  
+</div>
+
+</tr>
+<tr valign="top" width="33%">
+
+
+
+## FAVORITE 3D & VFX TOOLS  
+<div align="center">  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Logo_Blender.svg" alt="Blender" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Three.js_Icon.svg" alt="Three.js" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/WebGL_Logo.svg" alt="WebGL" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/DaVinci_Resolve_logo.svg" alt="DaVinci Resolve" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Adobe_After_Effects.svg" alt="After Effects" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Adobe_Premiere.svg" alt="Adobe Premiere" height="50" />  
+</div>
+
+</tr>
+</tr></table>
+
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SFRNTDU8L3RpdGxlPjxwYXRoIGQ9Ik0xLjUgMGgyMWwtMS45MSAyMS41NjNMMTEuOTc3IDI0bC04LjU2NC0yLjQzOEwxLjUgMHptNy4wMzEgOS43NWwtLjIzMi0yLjcxOCAxMC4wNTkuMDAzLjIzLTIuNjIyTDUuNDEyIDQuNDFsLjY5OCA4LjAxaDkuMTI2bC0uMzI2IDMuNDI2LTIuOTEuODA0LTIuOTU1LS44MS0uMTg4LTIuMTFINi4yNDhsLjMzIDQuMTcxTDEyIDE5LjM1MWw1LjM3OS0xLjQ0My43NDQtOC4xNTdIOC41MzF6Ii8+PC9zdmc+)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Q1NTMzwvdGl0bGU+PHBhdGggZD0iTTEuNSAwaDIxbC0xLjkxIDIxLjU2M0wxMS45NzcgMjRsLTguNTY1LTIuNDM4TDEuNSAwem0xNy4wOSA0LjQxM0w1LjQxIDQuNDFsLjIxMyAyLjYyMiAxMC4xMjUuMDAyLS4yNTUgMi43MTZoLTYuNjRsLjI0IDIuNTczaDYuMTgybC0uMzY2IDMuNTIzLTIuOTEuODA0LTIuOTU2LS44MS0uMTg4LTIuMTFoLTIuNjFsLjI5IDMuODU1TDEyIDE5LjI4OGw1LjM3My0xLjUzTDE4LjU5IDQuNDE0eiIvPjwvc3ZnPg==)
 ![](https://img.shields.io/badge/Code-SCSS-informational?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+U2FzczwvdGl0bGU+PHBhdGggZD0iTTEyIDBjNi42MjcgMCAxMiA1LjM3MyAxMiAxMnMtNS4zNzMgMTItMTIgMTJTMCAxOC42MjcgMCAxMiA1LjM3MyAwIDEyIDB6TTkuNjE1IDE1Ljk5OGMuMTc1LjY0NS4xNTYgMS4yNDgtLjAyNCAxLjc5MmwtLjA2NS4xOGMtLjAyNC4wNjEtLjA1Mi4xMi0uMDc4LjE3Ni0uMTQuMjktLjMyNi41Ni0uNTU1LjgxLS42OTguNzU5LTEuNjcyIDEuMDQ3LTIuMDkuODA1LS40NS0uMjYyLS4yMjYtMS4zMzUuNTg0LTIuMTkuODcxLS45MTggMi4xMi0xLjUwOSAyLjEyLTEuNTA5di0uMDAzbC4xMDgtLjA2MXptOS45MTEtMTAuODYxYy0uNTQyLTIuMTMzLTQuMDc3LTIuODM0LTcuNDIyLTEuNjQ1LTEuOTg5LjcwNy00LjE0NCAxLjgxOC01LjY5MyAzLjI2N0M0LjU2OCA4LjQ4IDQuMjc1IDkuOTggNC4zOTYgMTAuNjA3Yy40MjcgMi4yMTEgMy40NTcgMy42NTcgNC43MDMgNC43M3YuMDA2Yy0uMzY3LjE4LTMuMDU2IDEuNTI5LTMuNjg2IDIuOTI1LS42NzUgMS40Ny4xMDUgMi41MjEuNjE1IDIuNjU1IDEuNTc1LjQzNiAzLjE5NS0uMzYgNC4wNjUtMS42NDkuODQtMS4yNjEuNzY2LTIuODgxLjQwNC0zLjY3Ni40OTYtLjEzNSAxLjA4LS4xOTUgMS44My0uMTA0IDIuMTAxLjI0IDIuNTIxIDEuNTYgMi40MyAyLjEtLjA5LjUzOS0uNTIzLjg1NC0uNjc0Ljk0NC0uMTUuMDkxLS4xOTUuMTItLjE4MS4xODEuMDE1LjA5LjA5MS4wOS4yMS4wNzUuMTY1LS4wMyAxLjA5Ni0uNDUgMS4xNDEtMS40NzEuMDQ1LTEuMjktMS4xODYtMi43MjktMy4zNzUtMi43LS45LjAxNi0xLjQ3MS4wOTEtMS44NzUuMjU2LS4wMy0uMDQ1LS4wNjEtLjA3NS0uMTA1LS4xMDUtMS4zNS0xLjQ1NS0zLjg1NS0yLjQ3NS0zLjc1LTQuNDEuMDMtLjcwNS4yODUtMi41NjQgNC44LTQuODE0IDMuNzA1LTEuODQ2IDYuNjYxLTEuMzM1IDcuMTcxLS4yMS43MzMgMS42MDQtMS41NzYgNC41OS01LjQzMSA1LjAyNC0xLjQ3LjE2NS0yLjIzNS0uNDA0LTIuNDMxLS42MTUtLjIwOS0uMjI1LS4yMzktLjI0LS4zMTQtLjE5NC0uMTIuMDYtLjA0NS4yNTUgMCAuMzc1LjEyLjMuNTg1LjgyNSAxLjM5NiAxLjA5NS43MDQuMjI1IDIuNDMuMzU5IDQuNS0uNDUgMi4zMjQtLjg5OSA0LjEzOS0zLjQwNSAzLjYxNC01LjUwNWwuMDczLjA2N3oiLz48L3N2Zz4=)
