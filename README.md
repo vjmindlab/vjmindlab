@@ -22,7 +22,7 @@
 <img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/vite_logo.svg" alt="Vite" height="50" />  
 <img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/parcel_logo.svg" alt="Parcel" height="50" />  
 <img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/webpack_logo.svg" alt="WebPack" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Amazon_Web_Services_Logo.svg" alt="Amazon Web Services" height="50" />  
+<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/6ffb452b70a3834e2b52b070bb4f7806eb9e19d4/assets/Amazon_Web_Services_Logo.svg" alt="Amazon Web Services" height="50" />  
 <img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Google_Cloud_logo.svg" alt="Google Cloud" height="50" />  
 <img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Firebase_Logo.svg" alt="Firebase" height="50" />  
 </div>
