@@ -8,10 +8,12 @@
 
 ## UX/UI TOOLS PROFICIENCY  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/Figma-logo.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/penpot-logo.svg" alt="Penpot" height="50" />  <img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/protopie_logo.svg" alt="Protopie" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/Adobe_XD_icon.svg" alt="Adobe XD" height="50" />  <img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/Photoshop_icon.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Illustrator_icon.svg" alt="Illustrator" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/Figma-logo.svg" alt="Figma" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/penpot-logo.svg" alt="Penpot" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/protopie_logo.svg" alt="Protopie" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/Adobe_XD_icon.svg" alt="Adobe XD" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/Photoshop_icon.svg" alt="Photoshop" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Illustrator_icon.svg" alt="Illustrator" height="50" />  
 </div>
 
 </tr>
@@ -19,12 +21,12 @@
 
 ## STACK TOOL USED  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/vite_logo.svg" alt="Vite" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/parcel_logo.svg" alt="Parcel" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/webpack_logo.svg" alt="WebPack" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/6ffb452b70a3834e2b52b070bb4f7806eb9e19d4/assets/Amazon_Web_Services_Logo.svg" alt="Amazon Web Services" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Google_Cloud_logo.svg" alt="Google Cloud" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Firebase_Logo.svg" alt="Firebase" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/vite_logo.svg" alt="Vite" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/parcel_logo.svg" alt="Parcel" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/webpack_logo.svg" alt="WebPack" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/6ffb452b70a3834e2b52b070bb4f7806eb9e19d4/assets/Amazon_Web_Services_Logo.svg" alt="Amazon Web Services" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Google_Cloud_logo.svg" alt="Google Cloud" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Firebase_Logo.svg" alt="Firebase" height="50" />  
 </div>
 
 </tr>
@@ -34,12 +36,12 @@
 
 ## FAVORITE 3D & VFX TOOLS  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Logo_Blender.svg" alt="Blender" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Three.js_Icon.svg" alt="Three.js" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/WebGL_Logo.svg" alt="WebGL" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/DaVinci_Resolve_logo.svg" alt="DaVinci Resolve" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Adobe_After_Effects.svg" alt="After Effects" height="50" />  
-<img style="margin: 10px" src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Adobe_Premiere.svg" alt="Adobe Premiere" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Logo_Blender.svg" alt="Blender" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Three.js_Icon.svg" alt="Three.js" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/WebGL_Logo.svg" alt="WebGL" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/DaVinci_Resolve_logo.svg" alt="DaVinci Resolve" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Adobe_After_Effects.svg" alt="After Effects" height="50" />  
+<img src="https://github.com/vjmindlab/vjmindlab/blob/9deb6a5dda3f7937a6ec4a2ab8df91e6a8cac26a/assets/Adobe_Premiere.svg" alt="Adobe Premiere" height="50" />  
 </div>
 
 </tr>
