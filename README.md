@@ -6,9 +6,7 @@
 
 # <img src="https://user-images.githubusercontent.com/46301974/226538734-33381dbe-9d72-42e7-980a-bf6db54fe16e.svg" alt="UX/UI Logo" height="35" />&nbsp;UX/UI TOOLS PROFICIENCY
 <div align="center">
-<a href="https://figma.com" target="blank">
 <img src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/Figma-logo.svg" alt="Figma" height="50" />&nbsp;&nbsp;&nbsp;
-  </a>
 <img src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/penpot-logo.svg" alt="Penpot" height="50" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/protopie_logo.svg" alt="Protopie" height="50" />&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/vjmindlab/vjmindlab/blob/7f71e5beba1a7ab3cc67e010e1bd44cc44136a6e/assets/Adobe_XD_icon.svg" alt="Adobe XD" height="50" />&nbsp;&nbsp;&nbsp;  
