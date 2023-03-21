@@ -81,7 +81,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjmindlab&hide=java,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/vjmindlab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vjmindlab&show_icons=true&line_height=27&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Frank Dufaux's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vjmindlab&show_icons=true&line_height=27&count_private=true&include_all_commits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Frank Dufaux's GitHub Stats" />
 </a>
 
 <a href="https://github.com/vjmindlab/Taktical-Studio-Website">
