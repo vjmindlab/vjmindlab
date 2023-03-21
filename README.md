@@ -78,7 +78,7 @@
 # <img src="https://user-images.githubusercontent.com/46301974/226542486-9e7c70d6-4f7c-44bb-a017-05b3135f5474.svg" alt="Stats Logo" height="35" />&nbsp;GITHUB STATS
 
 <a href="https://github.com/vjmindlab">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vjmindlab&show_icons=false&card_width=400&line_height=27&count_private=true&include_all_commits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Frank Dufaux's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vjmindlab&show_icons=true&card_width=400&line_height=27&count_private=true&include_all_commits&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Frank Dufaux's GitHub Stats" />
 </a>
  
  
