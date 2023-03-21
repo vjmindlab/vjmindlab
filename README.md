@@ -75,3 +75,20 @@
 <br/>
 ![](https://img.shields.io/badge/Registry-NPM-informational?style=flat&logo=npm&logoColor=white&color=6bfff0)
 ![](https://img.shields.io/badge/Registry-Curl-informational?style=flat&logo=curl&logoColor=white&color=6bfff0)
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/vjmindlab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vjmindlab&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/vjmindlab/vjmindlab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vjmindlab&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Frank Dufaux's GitHub Stats" />
+</a>
+
+<a href="https://github.com/vjmindlab/Taktical-Studio-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vjmindlab&repo=Taktical-Studio-Website&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/vjmindlab/threejs-tests">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vjmindlab&repo=threejs-tests&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
