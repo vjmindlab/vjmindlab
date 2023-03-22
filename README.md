@@ -1,8 +1,4 @@
-  <picture>
-    <source media= srcset="https://github.com/vjmindlab/vjmindlab/blob/37a48dbee0890a12e9e341fae4d88477f2e14312/github-header-image_new.png">
-    <source media= srcset="frame.avifs" />
-    <img alt="Frank Dufaux" src="frame.avifs" width="100%" />
-  </picture>
+[![Header](https://github.com/vjmindlab/vjmindlab/blob/37a48dbee0890a12e9e341fae4d88477f2e14312/github-header-image_new.png "Header")](https://frankdufaux.com/)
 
 
 <br/>
