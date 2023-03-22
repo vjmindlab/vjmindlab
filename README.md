@@ -1,5 +1,4 @@
-[![Header](https://user-images.githubusercontent.com/46301974/226798112-abd4fb51-1b3a-4891-ae46-183f62e7082b.svg "Header")](https://frankdufaux.com/)
-
+[![Header](https://user-images.githubusercontent.com/46301974/226801211-aa62a5be-7a8a-4762-8d26-b5c03b299606.svg "Header")](https://frankdufaux.com/)
 
 
 <br/>
