@@ -1,4 +1,5 @@
-[![Header](https://github.com/vjmindlab/vjmindlab/blob/37a48dbee0890a12e9e341fae4d88477f2e14312/github-header-image_new.png "Header")](https://frankdufaux.com/)
+[![Header](https://user-images.githubusercontent.com/46301974/226798112-abd4fb51-1b3a-4891-ae46-183f62e7082b.svg "Header")](https://frankdufaux.com/)
+
 
 
 <br/>
