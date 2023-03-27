@@ -1,5 +1,5 @@
 [![Header](https://user-images.githubusercontent.com/46301974/226802470-00460d48-49c9-40bd-885f-3783aebb6d3f.svg "Header")](https://frankdufaux.com/)
-
+![Badge](https://visitor-counter-badge-sigma.vercel.app/api/vjmindlab/visitor-counter-badge?label=Page_Views&labelColor=3E4778&color=95abdb)
 <br/>
 
 <table border="0"><tr><tr valign="top" width="33%">
